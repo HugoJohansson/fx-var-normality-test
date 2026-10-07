@@ -1,0 +1,14 @@
+data/
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+.DS_Store
+# LaTeX build files (docs/quant_guide.pdf is kept on purpose)
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.bbl
+docs/*.blg
+docs/*.toc
+docs/*.synctex.gz
